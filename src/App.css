@@ -1,0 +1,36 @@
+.logo {
+  width: 150px;
+}
+.vechile{
+  color:yellow
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+.checked {
+  color: orange;
+}
+.gap{
+  position:relative;
+}
+.product{
+  width:100px;
+}
+.grid-container2 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+.final{
+  background-color: black;
+}
+.cards{
+width:50px;
+}
+.end{
+  position:end;
+}
